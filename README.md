@@ -1,2 +1,0 @@
-# PlayerInfoPlugin-MiningLevelSystem
-yurisi0212氏のPlayerInfoScoreBoardプラグインにdeceitya氏のMiningLevelSystemの要素を表示させるプラグインです
